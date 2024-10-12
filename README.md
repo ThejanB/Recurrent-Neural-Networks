@@ -13,3 +13,9 @@ For this, I used a text file (wordlist.txt) containing 10,000 common English wor
 I used the Python **torch library** to implement our autocomplete model. 
 
 ***
+
+
+#How To Run ->
+
+    python -m jupyter snotebook
+
